@@ -1,0 +1,45 @@
+aiosql.adapters package
+=======================
+
+Submodules
+----------
+
+aiosql.adapters.aiosqlite module
+--------------------------------
+
+.. automodule:: aiosql.adapters.aiosqlite
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+aiosql.adapters.asyncpg module
+------------------------------
+
+.. automodule:: aiosql.adapters.asyncpg
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+aiosql.adapters.psycopg2 module
+-------------------------------
+
+.. automodule:: aiosql.adapters.psycopg2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+aiosql.adapters.sqlite3 module
+------------------------------
+
+.. automodule:: aiosql.adapters.sqlite3
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: aiosql.adapters
+   :members:
+   :undoc-members:
+   :show-inheritance:
